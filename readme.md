@@ -18,7 +18,7 @@ This project is a simple HTML page demonstrating the use of **CSS positioning** 
 
 [live@]( https://jishnusmanoj2004-gif.github.io/box/)
 
-![ss](../ss.png)    
+![ss](./ss.png)    
 
 ## 🛠️ Technologies Used
 
